@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 61,
-    "description": {
-        "text": "Toonilla 1.0",
-        "color": "lime"
-    }
+    "pack_format": 34,
+    "supported_formats": [34, 99],
+    "min_format": 34, 
+    "max_format": 99,
+    "description": "Teste"
   }
 }
